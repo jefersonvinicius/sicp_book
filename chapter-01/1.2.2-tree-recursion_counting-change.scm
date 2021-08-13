@@ -36,3 +36,4 @@
 (count-change 6) ; 2
 (count-change 10) ; 4
 (count-change 100)
+(count-change 250)
